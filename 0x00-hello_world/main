@@ -1,0 +1,3 @@
+#!/bin/bash
+exportCFILE=O-main.c
+./100-intel
