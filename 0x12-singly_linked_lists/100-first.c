@@ -8,6 +8,6 @@ void first(void) __attribute__ ((constructor));
  */
 void first(void)
 {
-	printf("You're exhausted! and yet, you must admit\n");
+	printf("You're beat! and yet, you must allow,\nI bore my house upon my back\n");
 	printf("I carried my home on my back!\n");
 }
