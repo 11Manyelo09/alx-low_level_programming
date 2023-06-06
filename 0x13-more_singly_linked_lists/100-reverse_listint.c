@@ -4,6 +4,7 @@
  * reverse_listint - reverses a connected list
  * @head: pointer to the initial node in the list
  *
+ *Return: pointer to the initial node in the new list
  */
 listint_t *reverse_listint(listint_t **head)
 {
