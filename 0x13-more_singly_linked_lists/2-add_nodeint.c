@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * add-nodeint - adds a new node at the start of a connected list
+ * add_nodeint - adds a new node at the start of a connected list
  * @head: pointer at the unused node in the list
  * @n: data to insert in that unused node
  *

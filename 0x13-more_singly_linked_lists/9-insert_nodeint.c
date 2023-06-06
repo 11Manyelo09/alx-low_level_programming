@@ -3,7 +3,7 @@
 /**
  * insert_nodeint_at_index - inserts a unused node in a connected list
  * at a specific location
- * @head: pointer to the initial node is added
+ * @head: pointer to the initial node in the list
  * @idx: index where the initial node is added
  * @n: information to insert in the initial node
  *
